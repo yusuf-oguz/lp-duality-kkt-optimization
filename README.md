@@ -12,6 +12,8 @@ Konveks optimizasyonun dört temel aracını (LP formülasyonu, dual problem tü
 
 </details>
 
+---
+
 Four core tools from convex optimization, each solved by hand and then checked against a solver: an LP formulation, a dual problem derivation, Lagrange multipliers, and the KKT conditions.
 
 ## Question 1: water distribution transportation problem
