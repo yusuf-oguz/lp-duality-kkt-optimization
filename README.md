@@ -10,11 +10,15 @@ Konveks optimizasyonun dört temel aracını (LP formülasyonu, dual problem tü
 **Soru 3:** Lagrange çarpanlarıyla kısıtlı optimizasyon, SONC/SOSC (ikinci mertebe koşullar) ile yerel minimum doğrulaması, scipy ile çapraz kontrol.
 **Soru 4:** KKT koşullarının çıkarımı, analitik çözüm, kısıtların aktifliğinin tartışılması, CVXPY ile doğrulama.
 
+**Kapsam:** dört probleme odaklanan kompakt bir matematik egzersizi, genel amaçlı bir optimizasyon kütüphanesi değil.
+
 </details>
 
 ---
 
 Four core tools from convex optimization, each solved by hand and then checked against a solver: an LP formulation, a dual problem derivation, Lagrange multipliers, and the KKT conditions.
+
+**Scope:** a compact math exercise working through these four problems by hand and in code, not a general-purpose optimization library.
 
 ## Question 1: water distribution transportation problem
 
