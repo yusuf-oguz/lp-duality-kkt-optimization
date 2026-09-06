@@ -36,11 +36,11 @@ Derives the KKT conditions for a constrained problem, solves it analytically, di
 
 | File | What it is |
 |---|---|
-| `hw3_solution.ipynb` | Clean solution notebook, no run outputs |
-| `hw3_solution_executed.ipynb` | Same notebook, executed, with all plots and solver outputs included |
+| `solutions.ipynb` | Clean solution notebook, no run outputs |
+| `solutions_executed.ipynb` | Same notebook, executed, with all plots and solver outputs included |
 | `report_final.md` / `report_final.pdf` | Written report with the full derivations |
 | `q1_a_analysis.png`, `q3_contour.png`, `q4_contour.png` | Generated analysis plots |
-| `YZV202E-HW3.pdf` | The original problem statement |
+| `problem_statement.pdf` | The original problem statement |
 
 ## Tools
 

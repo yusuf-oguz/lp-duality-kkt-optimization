@@ -1,7 +1,6 @@
-# YZV202E Optimization for Data Science (Homework 3)
-**Name:** Yusuf Oğuz | **Student ID:** 150220322
+# LP Duality, Lagrange Multipliers, and KKT Conditions
 
----
+By Yusuf Oğuz
 
 ## Question 1: Water Distribution Transportation Problem
 
