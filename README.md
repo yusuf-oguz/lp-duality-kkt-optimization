@@ -1,5 +1,7 @@
 # LP Duality, Lagrange Multipliers, and KKT Conditions
 
+> **Small-scope project.** A short, focused exercise, not a large-scale build. For deeper work, see the [pinned repositories](https://github.com/yusuf-oguz).
+
 <details>
 <summary>🇹🇷 Türkçe özet için tıklayın</summary>
 
